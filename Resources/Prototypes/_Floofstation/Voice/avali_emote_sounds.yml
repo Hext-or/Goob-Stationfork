@@ -67,9 +67,17 @@
     Chirp:
       collection: ResomiChirp
     Gasp:
-      collection: MaleGasp
+      collection: ResomiGasp
     DefaultDeathgasp:
-      collection: MaleDeathGasp
+      collection: ResomiGasp
+    Scree:
+      collection: ResomiScree
+    Call:
+      collection: ResomiCall
+    Call:
+      collection: ResomiSquawk
+    Call:
+      collection: ResomiWhistle
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
 
@@ -117,8 +125,16 @@
     Chirp:
       collection: ResomiChirp
     Gasp:
-      collection: FemaleGasp
+      collection: ResomiGasp
     DefaultDeathgasp:
-      collection: FemaleDeathGasp
+      collection: ResomiGasp
+    Scree:
+      collection: ResomiScree
+    Call:
+      collection: ResomiCall
+    Call:
+      collection: ResomiSquawk
+    Call:
+      collection: ResomiWhistle
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg

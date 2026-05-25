@@ -11,3 +11,30 @@
     - /Audio/_Starlight/Voice/Resomi/resomi_chirp3.ogg
     - /Audio/_Starlight/Voice/Resomi/resomi_chirp4.ogg
     - /Audio/_Starlight/Voice/Resomi/resomi_chirp5.ogg
+
+- type: soundCollection
+  id: ResomiCall
+  files:
+    - /Audio/_Starlight/Voice/Resomi/resomi_call_1.ogg
+    - /Audio/_Starlight/Voice/Resomi/resomi_call_2.ogg
+
+- type: soundCollection
+  id: ResomiGasp
+  files:
+    - /Audio/_Starlight/Voice/Resomi/resomi_deathgasp.ogg
+
+- type: soundCollection
+  id: ResomiScree
+  files:
+    - /Audio/_Starlight/Voice/Resomi/resomi_scree_1.ogg
+    - /Audio/_Starlight/Voice/Resomi/resomi_scree_2.ogg
+
+- type: soundCollection
+  id: ResomiSquawk
+  files:
+    - /Audio/_Starlight/Voice/Resomi/resomi_squawk_1
+
+- type: soundCollection
+  id: ResomiWhistle
+  files:
+    - /Audio/_Starlight/Voice/Resomi/resomi_whistle
